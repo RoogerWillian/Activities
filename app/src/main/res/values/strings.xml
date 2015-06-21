@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Activities</string>
+    <string name="title_activity_primeira">Primeira Activity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnGo">IR PARA 2ª ACTIVITY</string>
+    <string name="txtSegundaActivity">Está é a Segunda Activity</string>
+    <string name="title_activity_segunda">Segunda Activity</string>
+    <string name="btn_back">VOLTAR PARA 1º ACTIVITY</string>
+</resources>
